@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+
+<a href="signUp.html"> SIGN UP </a>
+<br><br>
+
+Enter user name:<br>
+<input  type = text   name = "user"     autocomplete="off" ><br>
+Enter password:<br>
+<input  type = text   name = "password" autocomplete="off" ><br>
+
+<form action="web.njit.edu/~dfu3/regPage/download/homePage.html">
+    <input type="submit" value="SIGN IN" />
+</form>
+
+
+<!--<input  type = submit | "web.njit.edu/~dfu3/regPage/download/signUp.html"    > -->
+
+</form>
+ 
+<br><br>
+ 
+

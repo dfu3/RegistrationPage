@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+
+<h3> Sign Up for our Website: </h3><br>
+
+Create user name:<br>
+<input  type = text   name = "user"     autocomplete="off" ><br>
+Create  password:<br>
+<input  type = text   name = "password1" autocomplete="off" ><br>
+Re-enter password:<br>
+<input  type = text   name = "password2" autocomplete="off" ><br>
+<a href="signIn.html"> REGISTER</a>
+ 
+ 
+
